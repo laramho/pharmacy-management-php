@@ -42,3 +42,6 @@
 
 10 оплата поставщиком
 ![оплата поставщиком](screenshots/chrome_X57WnL3fvt.png)
+
+
+Источник оригинала: https://codeastro.com/pharmacy-management-system-in-php-codeigniter-with-source-code/
