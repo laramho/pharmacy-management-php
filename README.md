@@ -30,7 +30,8 @@
 ![создание общего названия](screenshots/firefox_NdjhHYMaQU.png)
 
 6 название лекарства
-![название лекарства](screenshots/chrome_K18cAzXvBV-1.png)
+![chrome_K18cAzXvBV](https://github.com/laramho/pharmacy-management-php/assets/146481400/0c0b92fd-006a-4418-8206-6c95d5dec9ae)
+
 
 7 поставщик
 ![поставщик](screenshots/chrome_sRLBzRcd2Z.png)
