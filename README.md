@@ -85,5 +85,6 @@
 
 15
 Sales medicine (продажа медикаментов)
-![изображение](https://github.com/laramho/pharmacy-management-php/assets/146481400/032d4d12-800b-4918-9ac1-d61a36dd8b75)
+![firefox_GxJw0WgbVO](https://github.com/laramho/pharmacy-management-php/assets/146481400/71120279-51e6-4064-ad8b-a205874fda5f)
+
 
