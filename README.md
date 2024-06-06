@@ -84,7 +84,7 @@
 
 
 15
-Sales medicine (продажа медикаментов)
+Продажа Лекарств
 ![firefox_GxJw0WgbVO](https://github.com/laramho/pharmacy-management-php/assets/146481400/71120279-51e6-4064-ad8b-a205874fda5f)
 
 
