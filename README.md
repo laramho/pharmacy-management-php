@@ -13,9 +13,14 @@
 
 
 
+
+
+
+
 1 
 Вход в панель админа
 ![вход в панель админа](screenshots/firefox_L36b56umOy.png)
+
 
 
 2 
@@ -23,10 +28,16 @@
 ![вход для персонала](screenshots/chrome_4ZF9Br1wC8.png)
 
 
+
+
+
 Панель управления👇
 3 
 Дашборд с обзором ситуации по продажам и пр
-![дашборд с обзором ситуации по продажам и пр](screenshots/chrome_MkVmD96Fbd.png)
+![изображение](https://github.com/laramho/pharmacy-management-php/assets/146481400/3f2b2392-9e65-4604-a6c1-9cab4e632728)
+
+
+
 
 
 Создать опции👇
@@ -34,17 +45,26 @@
 Презентация лекарств
 ![презентация лекарств](screenshots/firefox_eNJ9FnTpiA.png)
 
+
+
 5 
 Создание общего названия
 ![создание общего названия](screenshots/firefox_NdjhHYMaQU.png)
+
+
 
 6 
 Название лекарства
 ![chrome_K18cAzXvBV](https://github.com/laramho/pharmacy-management-php/assets/146481400/0c0b92fd-006a-4418-8206-6c95d5dec9ae)
 
+
+
 7 
 Поставщик
 ![поставщик](screenshots/chrome_sRLBzRcd2Z.png)
+
+
+
 
 
 Запасы👇
@@ -52,13 +72,20 @@
 Инфа о покупке лекарств
 ![инфа о покупке лекарств](screenshots/firefox_eQO0TQGrgE.png)
 
+
+
 9 
 Выписка о покупке лекарств
 ![выписка о покупке лекарств](screenshots/firefox_dggcNDwOD7.png)
 
+
+
 10
 Оплата поставщикам
 ![оплата поставщиком](screenshots/chrome_X57WnL3fvt.png)
+
+
+
 
 
 Продажи👇
@@ -67,9 +94,13 @@
 ![firefox_hJxigT7uic](https://github.com/laramho/pharmacy-management-php/assets/146481400/301e184d-03cd-409e-af4f-e0dfe2f9c80e)
 
 
+
 12
 Отчет о продажах
 ![firefox_RauxTbmJy0](https://github.com/laramho/pharmacy-management-php/assets/146481400/bf8d6c19-167b-4829-870e-def9954e8684)
+
+
+
 
 
 Бухгалтерия👇
@@ -77,10 +108,16 @@
 Прибыль-убыток
 ![firefox_rsIcG9UKEi](https://github.com/laramho/pharmacy-management-php/assets/146481400/03a202c2-bd4b-438b-bb1a-a8e8cdcbbeaf)
 
+
+
+
+
+
 Управление персоналом👇
 14
 Создать сотрудника
 ![firefox_2imhm6SvBG](https://github.com/laramho/pharmacy-management-php/assets/146481400/d81a5cfd-6f0e-469c-af60-0d50b79f3336)
+
 
 
 15
